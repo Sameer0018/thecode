@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b06ada28.chunk.css",
+    "main.js": "/static/js/main.94a2ab52.chunk.js",
+    "main.js.map": "/static/js/main.94a2ab52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3639c030.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3639c030.js.map",
+    "static/css/2.53150396.chunk.css": "/static/css/2.53150396.chunk.css",
+    "static/js/2.b9379cc3.chunk.js": "/static/js/2.b9379cc3.chunk.js",
+    "static/js/2.b9379cc3.chunk.js.map": "/static/js/2.b9379cc3.chunk.js.map",
+    "static/js/3.7d0f0500.chunk.js": "/static/js/3.7d0f0500.chunk.js",
+    "static/js/3.7d0f0500.chunk.js.map": "/static/js/3.7d0f0500.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.53150396.chunk.css.map": "/static/css/2.53150396.chunk.css.map",
+    "static/css/main.b06ada28.chunk.css.map": "/static/css/main.b06ada28.chunk.css.map",
+    "static/js/2.b9379cc3.chunk.js.LICENSE.txt": "/static/js/2.b9379cc3.chunk.js.LICENSE.txt",
+    "static/media/FlowOfSite.09db568f.png": "/static/media/FlowOfSite.09db568f.png",
+    "static/media/Home.css": "/static/media/Make_money.37595fbb.jpg",
+    "static/media/Reward.c8c6c10e.jpg": "/static/media/Reward.c8c6c10e.jpg",
+    "static/media/image-1.03b28e24.jpg": "/static/media/image-1.03b28e24.jpg",
+    "static/media/image-2.383eb13f.jpg": "/static/media/image-2.383eb13f.jpg",
+    "static/media/image-3.babe4882.jpg": "/static/media/image-3.babe4882.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3639c030.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.b9379cc3.chunk.js",
+    "static/css/main.b06ada28.chunk.css",
+    "static/js/main.94a2ab52.chunk.js"
+  ]
+}
